@@ -29,3 +29,13 @@ I also love writing about code, especially about things I just learned. Some peo
 - I have a LinkedIn profile at [https://linkedin.com/in/danilocsar](https://linkedin.com/in/danilocsar);
 - I write technical content at [DEV Community](https://dev.to/danilo); at [Hashnode](https://danilocesar.hashnode.dev/);
   - and also in Brazilian Portuguese 🇧🇷 on [Medium](https://danilocsar.medium.com/).
+
+## 📝 Latest blog posts
+
+### DEV Community
+<!-- DEVTO:START -->
+<!-- DEVTO:END -->
+
+### Medium
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
