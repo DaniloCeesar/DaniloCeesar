@@ -19,9 +19,8 @@ I'm a Law student, currently learning about Cryptography, Data Privacy & Protect
 
 - 👨‍⚖️ I love to talk about Intellectual Property related to software and startups.
 - 🚀 I'm always open for new opportunities to improve Law in the IT field.
+- 👨‍💻 I write posts about code, especially about things I just learned.
 - 🤔 My unpopular opinion is that changelogs are enjoyable to read.
-
-I also love writing about code, especially about things I just learned. Some people have said in the past that the best way to learn something is by teaching others, and I truly believe it.
 
 ## 📫 How to reach me
 
