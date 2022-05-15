@@ -41,4 +41,8 @@ I'm a Law student, currently learning about Cryptography, Data Privacy & Protect
 
 ### Medium
 <!-- MEDIUM:START -->
+- [Resolvendo anagramas, e o que isso pode nos ensinar sobre criptografia](https://danilocsar.medium.com/resolvendo-anagramas-e-o-que-isso-pode-nos-ensinar-sobre-criptografia-98c9363085a5?source=rss-b8ef6f0967aa------2)
+- [Padrões HTML para melhor SEO: o elemento HEAD](https://danilocsar.medium.com/padr%C3%B5es-html-para-melhor-seo-o-elemento-head-9cf787bcad00?source=rss-b8ef6f0967aa------2)
+- [CSS e HTML explicados para iniciantes: Parte 1](https://danilocsar.medium.com/css-e-html-explicados-para-iniciantes-parte-1-beacb2007299?source=rss-b8ef6f0967aa------2)
+- [Entendendo Cross-Site Request Forgery &lpar;CSRF ou XSRF&rpar;](https://danilocsar.medium.com/entendendo-cross-site-request-forgery-csrf-ou-xsrf-1a5f2ed35a0d?source=rss-b8ef6f0967aa------2)
 <!-- MEDIUM:END -->
