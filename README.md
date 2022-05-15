@@ -33,6 +33,10 @@ I'm a Law student, currently learning about Cryptography, Data Privacy & Protect
 
 ### DEV Community
 <!-- DEVTO:START -->
+- [Tired of Cookies? Here&#39;s the reason why](https://dev.to/danilo/tired-of-cookies-heres-the-reason-why-22od)
+- [HTML Standards for Better SEO: The HEAD element](https://dev.to/danilo/html-standards-for-better-seo-the-head-element-1cck)
+- [CSS and HTML Explained for Absolute Beginners: Part 1](https://dev.to/danilo/css-and-html-explained-for-absolute-beginners-part-1-2hjd)
+- [Understanding Cross-Site Request Forgery &lpar;CSRF or XSRF&rpar;](https://dev.to/danilo/understanding-cross-site-request-forgery-csrf-or-xsrf-3d95)
 <!-- DEVTO:END -->
 
 ### Medium
