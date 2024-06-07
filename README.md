@@ -6,12 +6,9 @@
 
 <samp>🤸‍♂️ Fun fact about me? I read a lot of software changelogs and, yeah, I do like to give feedback. [Let me know](https://danilo.discente.com/) if you want to talk about your next amazing software.</samp>
 
-<details>
-  <summary>My latest blog posts</summary>
-  <!-- DEVTO:START -->
-- [Tired of Cookies? Here&#39;s the reason why](https://dev.to/danilo/tired-of-cookies-heres-the-reason-why-22od)
-- [HTML Standards for Better SEO: The HEAD element](https://dev.to/danilo/html-standards-for-better-seo-the-head-element-1cck)
-- [CSS and HTML Explained for Absolute Beginners: Part 1](https://dev.to/danilo/css-and-html-explained-for-absolute-beginners-part-1-2hjd)
-- [Understanding Cross-Site Request Forgery &lpar;CSRF or XSRF&rpar;](https://dev.to/danilo/understanding-cross-site-request-forgery-csrf-or-xsrf-3d95)
+---
+
+### My latest blog posts
+
+<!-- DEVTO:START -->
 <!-- DEVTO:END -->
-</details>
