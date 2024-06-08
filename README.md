@@ -1,6 +1,6 @@
 ### Hi, I'm Danilo César 👋
 
-<samp>👨‍⚖️ I'm a lawyer and master's student in Computer Science. My current fields of work are Artificial Intelligence, and Intellectual Property applied for software and emerging technologies.</samp>
+<samp>👨‍⚖️ I'm a lawyer and master's student in Computer Science. My current fields of work are Artificial Intelligence, and Intellectual Property applied to software and emerging technologies.</samp>
 
 <samp>👨‍💻 I'm always open for new opportunities to improve Law and Legaltech. Sometimes I write about things I find interesting: you can read my posts on [DEV Community](https://dev.to/danilo), on [Hashnode](https://danilocesar.hashnode.dev/) and on [Medium](https://danilocsar.medium.com/).</samp>
 
